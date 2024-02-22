@@ -1,6 +1,7 @@
 ### Olá! Eu sou o Victor!
 
 - 🌱 Estudando Python
+- 👨‍🎓 Universitário da Uninassau Cursando ADS 0/6
 - 😄 Pronouns: Ele/Dele
 
 <div Style="display: inline_block">
