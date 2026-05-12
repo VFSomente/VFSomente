@@ -1,8 +1,7 @@
 ### Olá! Eu sou o Victor!
 
-- 🌱 Estudando Python, Java, Javascript e Typescript
-- 👨‍🎓 Universitário da Uninassau cursando ADS 2/4
-- 😄 Pronomes: Ele/Dele
+- 🌱 Estudando Java, Javascript e Typescript
+- 👨‍🎓 Universitário da Uninassau cursando ADS 3/4
 
 <div Style="display: inline_block">
 <img align="center" alt="Python" height="30" widht="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
